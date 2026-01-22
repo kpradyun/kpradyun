@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kpradyun
 - 👀 I’m interested in Web Development, Designing
-- 🌱 I’m currently learning GitHub, API integration.
+- 🌱 I’m currently learning AI and API integration
 - 📫 How to reach me https://www.linkedin.com/in/k-pradyun-736851318
 - 😄 Pronouns: He/Him
